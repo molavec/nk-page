@@ -14,7 +14,7 @@
           
           <div class="absolute bottom-6 left-6 z-10">
             <div class="bg-base-200/95 backdrop-blur-sm px-6 py-3.5 rounded-sm shadow-lg border border-base-300/50">
-              <span class="font-bold uppercase text-xl md:text-2xl text-accent tracking-widest">{{ $t('industries.c1') }}</span>
+              <span class="font-bold uppercase text-base md:text-xl text-accent tracking-widest">{{ $t('industries.c1') }}</span>
             </div>
           </div>
         </div>
@@ -26,7 +26,7 @@
           
           <div class="absolute bottom-6 left-6 z-10">
             <div class="bg-base-200/95 backdrop-blur-sm px-6 py-3.5 rounded-sm shadow-lg border border-base-300/50">
-              <span class="font-bold uppercase text-xl md:text-2xl text-accent tracking-widest">{{ $t('industries.c2') }}</span>
+              <span class="font-bold uppercase text-base md:text-xl text-accent tracking-widest">{{ $t('industries.c2') }}</span>
             </div>
           </div>
         </div>
