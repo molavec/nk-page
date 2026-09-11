@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "lets_talk": "Let's Talk"
+  },
+  "hero": {
+    "eyebrow": "ENVIRONMENTAL SOLUTIONS AND ENGINEERING",
+    "title": "Environmental management and engineering for projects that move forward",
+    "description": "We design, process, and monitor the environmental compliance of your project, coordinating engineering, fieldwork, and regulatory management in a single process.",
+    "request": "Request an assessment",
+    "view_services": "View services",
+    "industry": "INDUSTRY",
+    "mining": "MINING",
+    "construction": "CONSTRUCTION"
+  },
+  "why": {
+    "eyebrow": "WHY NK",
+    "title": "Our expertise",
+    "c1_title": "FOLLOW-UP",
+    "c1_sub": "Ongoing regulatory compliance",
+    "c1_desc": "We provide continuous follow-up on the project's environmental and sector-specific requirements at every stage.",
+    "c2_title": "COORDINATION",
+    "c2_sub": "Integrated engineering, fieldwork and management",
+    "c2_desc": "We coordinate technical design, field monitoring, and regulatory management as a single process.",
+    "c3_title": "COVERAGE",
+    "c3_sub": "Presence in demanding technical sectors",
+    "c3_desc": "Industry, mining, and construction — sectors with high technical and regulatory standards."
+  },
+  "services": {
+    "eyebrow": "OUR SERVICES",
+    "title": "Business lines",
+    "s1_title": "N.01 | Environmental Management and Regulatory Compliance",
+    "s1_l1": "Design and preparation of environmental and sector-specific permitting instruments",
+    "s1_l2": "Monitoring of environmental commitments and requirements",
+    "s1_l3": "Analysis of operational gaps and regulatory risks",
+    "s1_l4": "Environmental Technical Inspection of Works (ITO)",
+    "s1_l5": "Consulting on quality, environmental, and energy efficiency management systems",
+    "s2_title": "N.02 | Engineering, Permits and Regularizations",
+    "s2_l1": "Sector-specific permit management",
+    "s2_l2": "Regularization before the relevant authorities",
+    "s2_l3": "Baseline studies",
+    "s3_title": "N.03 | Environmental and Permitting Due Diligence",
+    "s3_desc": "We assess the environmental and regulatory status of an asset or project, providing a clear technical basis for purchase, lease, or financing decisions.",
+    "s3_l1": "Review of environmental liabilities and compliance history",
+    "s3_l2": "Verification of the validity and scope of sector permits",
+    "s3_l3": "Identification of regulatory gaps and associated risks",
+    "s3_l4": "Executive report to support decision-making"
+  },
+  "studies": {
+    "eyebrow": "PRECISION & TRACEABILITY",
+    "title": "Technical studies and analysis",
+    "description": "High-precision fieldwork, specialized measurements, and environmental component analyses designed to meet the strictest regulatory standards.",
+    "i1_title": "Noise and vibration",
+    "i1_desc": "Environmental noise monitoring (D.S. 38 MMA), occupational noise (D.S. 594 MINSAL), fauna-component noise (SEA-MMA), underwater noise, illuminance and vibration monitoring.",
+    "i2_title": "Air quality",
+    "i2_desc": "PM10, PM2.5, PM1 and TSP (DS 61/2008), settleable particulate matter, process gas monitoring, on-site meteorology.",
+    "i3_title": "Water component",
+    "i3_desc": "Physicochemical water analysis and hydrogeological monitoring.",
+    "i4_title": "Geophysics and fieldwork",
+    "i4_desc": "VES, ERT, TEM, and SP surveys up to 300 m depth. Exploratory drilling, test pits, soil mechanics, RTK topography, drone surveys, and bathymetry.",
+    "i5_title": "Biotic environment",
+    "i5_desc": "Terrestrial and aquatic flora and fauna surveys with SAG and SUBPESCA-certified consultants, soil biology, and macroinvertebrates.",
+    "i6_title": "Social environment",
+    "i6_desc": "Social risk analysis, social studies, and public participation processes (PAC).",
+    "i7_title": "Georeferenced, traceable data",
+    "i7_desc": "Each measurement is recorded and documented on-site, with full traceability for technical and regulatory purposes."
+  },
+  "industries": {
+    "eyebrow": "KEY INDUSTRIES",
+    "title": "We work where your business operates",
+    "c1": "Industry",
+    "c2": "Mining — Construction"
+  },
+  "contact": {
+    "eyebrow": "GET IN TOUCH",
+    "title": "Let's talk about your project",
+    "desc": "Schedule a free 20-minute conversation to review the environmental management and engineering support your project needs.",
+    "btn": "Chat on WhatsApp",
+    "whatsapp_msg": "Hello, I would like to schedule a conversation about environmental management for my project."
+  },
+  "footer": {
+    "contact": "Contact",
+    "director": "Commercial Director"
+  },
+  "drawer": {
+    "why": "Why NK",
+    "services": "Business Lines",
+    "studies": "Technical Studies",
+    "industries": "Key Industries",
+    "contact": "Get in Touch"
+  }
+}

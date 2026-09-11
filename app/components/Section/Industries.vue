@@ -2,8 +2,8 @@
   <section id="industries" class="py-20 px-4 md:px-8 bg-base-200">
     <div class="max-w-7xl mx-auto">
       <div class="mb-12">
-        <p class="text-accent font-bold tracking-widest mb-2">KEY INDUSTRIES</p>
-        <h2 class="text-3xl md:text-4xl font-bold text-primary">We work where your business operates</h2>
+        <p class="text-accent font-bold tracking-widest mb-2">{{ $t('industries.eyebrow') }}</p>
+        <h2 class="text-3xl md:text-4xl font-bold text-primary">{{ $t('industries.title') }}</h2>
       </div>
 
       <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -14,7 +14,7 @@
           
           <div class="absolute bottom-6 left-6 z-10">
             <div class="bg-base-200/95 backdrop-blur-sm px-6 py-3.5 rounded-sm shadow-lg border border-base-300/50">
-              <span class="font-bold uppercase text-xl md:text-2xl text-accent tracking-widest">Industry</span>
+              <span class="font-bold uppercase text-xl md:text-2xl text-accent tracking-widest">{{ $t('industries.c1') }}</span>
             </div>
           </div>
         </div>
@@ -26,7 +26,7 @@
           
           <div class="absolute bottom-6 left-6 z-10">
             <div class="bg-base-200/95 backdrop-blur-sm px-6 py-3.5 rounded-sm shadow-lg border border-base-300/50">
-              <span class="font-bold uppercase text-xl md:text-2xl text-accent tracking-widest">Mining — Construction</span>
+              <span class="font-bold uppercase text-xl md:text-2xl text-accent tracking-widest">{{ $t('industries.c2') }}</span>
             </div>
           </div>
         </div>
@@ -34,4 +34,3 @@
     </div>
   </section>
 </template>
-

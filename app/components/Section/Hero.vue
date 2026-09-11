@@ -12,14 +12,14 @@
     <div class="relative z-10 w-full max-w-7xl mx-auto px-6 py-28 md:px-8 md:py-20 flex flex-col lg:flex-row items-center">
       <!-- Text Content -->
       <div class="w-full lg:w-[55%] text-white pr-0 lg:pr-12">
-        <p class="mb-6 text-xs md:text-sm font-bold tracking-widest text-secondary uppercase">ENVIRONMENTAL SOLUTIONS AND ENGINEERING</p>
-        <h1 class="mb-8 text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-white">Environmental management and engineering for projects that move forward</h1>
+        <p class="mb-6 text-xs md:text-sm font-bold tracking-widest text-secondary uppercase">{{ $t('hero.eyebrow') }}</p>
+        <h1 class="mb-8 text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-white">{{ $t('hero.title') }}</h1>
         <p class="mb-12 text-lg md:text-xl opacity-90 max-w-lg">
-          We design, process, and monitor the environmental compliance of your project, coordinating engineering, fieldwork, and regulatory management in a single process.
+          {{ $t('hero.description') }}
         </p>
         <div class="flex flex-col sm:flex-row gap-4 mt-2">
-          <a href="#contact" class="btn btn-lg btn-secondary text-secondary-content border-none rounded-sm px-10">Request an assessment</a>
-          <a href="#services" class="btn btn-lg btn-outline border-white/50 text-white hover:bg-white hover:text-primary rounded-sm px-10">View services</a>
+          <a href="#contact" class="btn btn-lg btn-secondary text-secondary-content border-none rounded-sm px-10">{{ $t('hero.request') }}</a>
+          <a href="#services" class="btn btn-lg btn-outline border-white/50 text-white hover:bg-white hover:text-primary rounded-sm px-10">{{ $t('hero.view_services') }}</a>
         </div>
       </div>
       
@@ -34,12 +34,11 @@
     <div class="absolute bottom-0 left-0 w-full z-20 border-t border-white/20 bg-primary/30 backdrop-blur-sm lg:bg-transparent lg:backdrop-blur-none">
       <div class="max-w-7xl mx-auto px-6 md:px-8 py-6">
         <div class="w-full lg:w-[55%] flex flex-wrap gap-8 md:gap-12 text-sm md:text-base font-thin tracking-widest uppercase text-white/80">
-          <span>INDUSTRY</span>
-          <span>MINING</span>
-          <span>CONSTRUCTION</span>
+          <span>{{ $t('hero.industry') }}</span>
+          <span>{{ $t('hero.mining') }}</span>
+          <span>{{ $t('hero.construction') }}</span>
         </div>
       </div>
     </div>
   </div>
 </template>
-

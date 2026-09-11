@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "lets_talk": "Vamos conversar"
+  },
+  "hero": {
+    "eyebrow": "SOLUÇÕES AMBIENTAIS E ENGENHARIA",
+    "title": "Gestão ambiental e engenharia para projetos que avançam",
+    "description": "Desenhamos, processamos e acompanhamos a conformidade ambiental do seu projeto, coordenando engenharia, trabalho de campo e gestão regulatória em um único processo.",
+    "request": "Solicitar uma avaliação",
+    "view_services": "Ver serviços",
+    "industry": "INDÚSTRIA",
+    "mining": "MINERAÇÃO",
+    "construction": "CONSTRUÇÃO"
+  },
+  "why": {
+    "eyebrow": "POR QUE NK",
+    "title": "Nossa experiência",
+    "c1_title": "ACOMPANHAMENTO",
+    "c1_sub": "Conformidade regulatória contínua",
+    "c1_desc": "Oferecemos acompanhamento contínuo dos requisitos ambientais e setoriais do projeto em todas as etapas.",
+    "c2_title": "COORDENAÇÃO",
+    "c2_sub": "Engenharia, trabalho de campo e gestão integrados",
+    "c2_desc": "Coordenamos design técnico, monitoramento de campo e gestão regulatória como um processo único.",
+    "c3_title": "COBERTURA",
+    "c3_sub": "Presença em setores técnicos exigentes",
+    "c3_desc": "Indústria, mineração e construção — setores com altos padrões técnicos e regulatórios."
+  },
+  "services": {
+    "eyebrow": "NOSSOS SERVIÇOS",
+    "title": "Linhas de negócios",
+    "s1_title": "N.01 | Gestão Ambiental e Conformidade Regulatória",
+    "s1_l1": "Elaboração e tramitação de instrumentos de licenciamento ambiental e setorial",
+    "s1_l2": "Acompanhamento de compromissos e requisitos ambientais",
+    "s1_l3": "Análise de lacunas operacionais e riscos regulatórios",
+    "s1_l4": "Inspeção Técnica Ambiental de Obras (ITO)",
+    "s1_l5": "Consultoria em sistemas de gestão da qualidade, meio ambiente e eficiência energética",
+    "s2_title": "N.02 | Engenharia, Licenças e Regularizações",
+    "s2_l1": "Gestão de licenças setoriais",
+    "s2_l2": "Regularização junto às autoridades competentes",
+    "s2_l3": "Estudos de linha de base",
+    "s3_title": "N.03 | Due Diligence Ambiental e de Licenciamento",
+    "s3_desc": "Avaliamos o status ambiental e regulatório de um ativo ou projeto, fornecendo uma base técnica clara para decisões de compra, arrendamento ou financiamento.",
+    "s3_l1": "Revisão de passivos ambientais e histórico de conformidade",
+    "s3_l2": "Verificação da validade e escopo de licenças setoriais",
+    "s3_l3": "Identificação de lacunas regulatórias e riscos associados",
+    "s3_l4": "Relatório executivo de apoio à tomada de decisão"
+  },
+  "studies": {
+    "eyebrow": "PRECISÃO E RASTREABILIDADE",
+    "title": "Estudos e análises técnicas",
+    "description": "Trabalho de campo de alta precisão, medições especializadas e análises de componentes ambientais projetados para atender aos padrões regulatórios mais rígidos.",
+    "i1_title": "Ruído e vibração",
+    "i1_desc": "Monitoramento de ruído ambiental (D.S. 38 MMA), ruído ocupacional (D.S. 594 MINSAL), ruído da componente fauna (SEA-MMA), ruído subaquático, iluminância e monitoramento de vibração.",
+    "i2_title": "Qualidade do ar",
+    "i2_desc": "PM10, PM2.5, PM1 e PTS (DS 61/2008), material particulado sedimentável, monitoramento de gases de processo, meteorologia no local.",
+    "i3_title": "Componente hídrico",
+    "i3_desc": "Análise físico-química de água e monitoramento hidrogeológico.",
+    "i4_title": "Geofísica e trabalho de campo",
+    "i4_desc": "Sondagens SEV, ERT, TEM e SP até 300 m de profundidade. Sondagem exploratória, poços de teste, mecânica dos solos, topografia RTK, levantamentos com drones e batimetria.",
+    "i5_title": "Ambiente biótico",
+    "i5_desc": "Levantamentos de flora e fauna terrestre e aquática com consultores certificados SAG e SUBPESCA, biologia do solo e macroinvertebrados.",
+    "i6_title": "Ambiente social",
+    "i6_desc": "Análise de risco social, estudos sociais e processos de participação pública (PAC).",
+    "i7_title": "Dados georreferenciados e rastreáveis",
+    "i7_desc": "Cada medição é registrada e documentada no local, com rastreabilidade total para fins técnicos e regulatórios."
+  },
+  "industries": {
+    "eyebrow": "INDÚSTRIAS-CHAVE",
+    "title": "Trabalhamos onde seu negócio opera",
+    "c1": "Indústria",
+    "c2": "Mineração — Construção"
+  },
+  "contact": {
+    "eyebrow": "ENTRE EM CONTATO",
+    "title": "Vamos falar sobre o seu projeto",
+    "desc": "Agende uma conversa gratuita de 20 minutos para analisar o suporte de gestão ambiental e engenharia que seu projeto necessita.",
+    "btn": "Conversar no WhatsApp",
+    "whatsapp_msg": "Olá, gostaria de agendar uma conversa sobre a gestão ambiental do meu projeto."
+  },
+  "footer": {
+    "contact": "Contato",
+    "director": "Diretora Comercial"
+  },
+  "drawer": {
+    "why": "Por que a NK",
+    "services": "Linhas de Negócios",
+    "studies": "Estudos Técnicos",
+    "industries": "Indústrias-chave",
+    "contact": "Entrar em Contato"
+  }
+}
