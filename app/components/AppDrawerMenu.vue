@@ -1,5 +1,5 @@
 <template>
-  <div class="drawer-side z-[100]">
+  <div class="drawer-side z-100">
     <label for="main-menu" aria-label="close sidebar" class="drawer-overlay"></label>
     <ul class="menu bg-base-100 text-base-content min-h-full w-80 p-6 text-2xl gap-6 font-medium">
       <!-- Close button -->
