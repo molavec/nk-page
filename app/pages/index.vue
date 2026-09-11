@@ -64,10 +64,10 @@
     </div>
 
     <!-- 01 - Why NK -->
-    <section class="py-20 px-4 md:px-8 bg-base-200">
+    <section id="why-nk" class="py-20 px-4 md:px-8 bg-base-200">
       <div class="max-w-7xl mx-auto">
         <div class="mb-12">
-          <p class="text-accent font-bold tracking-widest mb-2">// 01 — WHY NK</p>
+          <p class="text-accent font-bold tracking-widest mb-2">WHY NK</p>
           <h2 class="text-3xl md:text-4xl font-bold text-primary">Our expertise</h2>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -100,103 +100,100 @@
     <section id="services" class="py-20 px-4 md:px-8 bg-primary text-primary-content">
       <div class="max-w-7xl mx-auto">
         <div class="mb-16">
-          <p class="text-secondary font-bold tracking-widest mb-2">// 02 — BUSINESS LINES</p>
+          <p class="text-secondary font-bold tracking-widest mb-2">OUR SERVICES</p>
           <h2 class="text-3xl md:text-4xl font-bold">Business lines</h2>
         </div>
 
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
-          <!-- Line 1 & 2 -->
-          <div class="space-y-12">
-            <div>
-              <h3 class="text-2xl font-bold mb-6 text-secondary border-b border-secondary/30 pb-4">N.01 | Environmental Management and Regulatory Compliance</h3>
-              <ul class="space-y-3">
-                <li class="flex items-start gap-3">
-                  <span class="text-secondary mt-1 font-bold">✓</span>
-                  <span>Design and preparation of environmental and sector-specific permitting instruments</span>
-                </li>
-                <li class="flex items-start gap-3">
-                  <span class="text-secondary mt-1 font-bold">✓</span>
-                  <span>Monitoring of environmental commitments and requirements</span>
-                </li>
-                <li class="flex items-start gap-3">
-                  <span class="text-secondary mt-1 font-bold">✓</span>
-                  <span>Analysis of operational gaps and regulatory risks</span>
-                </li>
-                <li class="flex items-start gap-3">
-                  <span class="text-secondary mt-1 font-bold">✓</span>
-                  <span>Environmental Technical Inspection of Works (ITO)</span>
-                </li>
-                <li class="flex items-start gap-3">
-                  <span class="text-secondary mt-1 font-bold">✓</span>
-                  <span>Consulting on quality, environmental, and energy efficiency management systems</span>
-                </li>
-              </ul>
-            </div>
-
-            <div>
-              <h3 class="text-2xl font-bold mb-6 text-secondary border-b border-secondary/30 pb-4">N.02 | Engineering, Permits and Regularizations</h3>
-              <ul class="space-y-3">
-                <li class="flex items-start gap-3">
-                  <span class="text-secondary mt-1 font-bold">✓</span>
-                  <span>Sector-specific permit management</span>
-                </li>
-                <li class="flex items-start gap-3">
-                  <span class="text-secondary mt-1 font-bold">✓</span>
-                  <span>Regularization before the relevant authorities</span>
-                </li>
-                <li class="flex items-start gap-3">
-                  <span class="text-secondary mt-1 font-bold">✓</span>
-                  <span>Baseline studies</span>
-                </li>
-              </ul>
-            </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+          <!-- N.01 -->
+          <div>
+            <h3 class="text-2xl font-bold mb-6 text-secondary border-b border-secondary/30 pb-4">N.01 | Environmental Management and Regulatory Compliance</h3>
+            <ul class="space-y-3">
+              <li class="flex items-start gap-3">
+                <span class="text-secondary mt-1 font-bold">✓</span>
+                <span>Design and preparation of environmental and sector-specific permitting instruments</span>
+              </li>
+              <li class="flex items-start gap-3">
+                <span class="text-secondary mt-1 font-bold">✓</span>
+                <span>Monitoring of environmental commitments and requirements</span>
+              </li>
+              <li class="flex items-start gap-3">
+                <span class="text-secondary mt-1 font-bold">✓</span>
+                <span>Analysis of operational gaps and regulatory risks</span>
+              </li>
+              <li class="flex items-start gap-3">
+                <span class="text-secondary mt-1 font-bold">✓</span>
+                <span>Environmental Technical Inspection of Works (ITO)</span>
+              </li>
+              <li class="flex items-start gap-3">
+                <span class="text-secondary mt-1 font-bold">✓</span>
+                <span>Consulting on quality, environmental, and energy efficiency management systems</span>
+              </li>
+            </ul>
           </div>
 
-          <!-- Line 3 (Due Diligence) -->
-          <div id="due-diligence" class="bg-base-100 text-base-content p-8 md:p-10 rounded-box shadow-xl relative overflow-hidden flex flex-col">
-            <div class="absolute top-0 right-0 w-48 h-48 bg-accent opacity-10 rounded-bl-full pointer-events-none"></div>
-            <h3 class="text-2xl font-bold mb-4 text-primary">N.03 | Environmental and permitting due diligence</h3>
-            <p class="mb-6 text-lg">We assess the environmental and regulatory status of an asset or project, providing a clear technical basis for purchase, lease, or financing decisions.</p>
-            <ul class="space-y-4 flex-grow">
+          <!-- N.02 -->
+          <div>
+            <h3 class="text-2xl font-bold mb-6 text-secondary border-b border-secondary/30 pb-4">N.02 | Engineering, Permits and Regularizations</h3>
+            <ul class="space-y-3">
               <li class="flex items-start gap-3">
-                <span class="text-primary mt-1 font-bold">→</span>
+                <span class="text-secondary mt-1 font-bold">✓</span>
+                <span>Sector-specific permit management</span>
+              </li>
+              <li class="flex items-start gap-3">
+                <span class="text-secondary mt-1 font-bold">✓</span>
+                <span>Regularization before the relevant authorities</span>
+              </li>
+              <li class="flex items-start gap-3">
+                <span class="text-secondary mt-1 font-bold">✓</span>
+                <span>Baseline studies</span>
+              </li>
+            </ul>
+          </div>
+
+          <!-- N.03 -->
+          <div id="due-diligence" class="w-full md:col-span-2 lg:col-span-1">
+            <h3 class="text-2xl font-bold mb-6 text-secondary border-b border-secondary/30 pb-4">N.03 | Environmental and Permitting Due Diligence</h3>
+            <p class="mb-4 opacity-90 text-sm md:text-base leading-relaxed">
+              We assess the environmental and regulatory status of an asset or project, providing a clear technical basis for purchase, lease, or financing decisions.
+            </p>
+            <ul class="space-y-3">
+              <li class="flex items-start gap-3">
+                <span class="text-secondary mt-1 font-bold">✓</span>
                 <span>Review of environmental liabilities and compliance history</span>
               </li>
               <li class="flex items-start gap-3">
-                <span class="text-primary mt-1 font-bold">→</span>
+                <span class="text-secondary mt-1 font-bold">✓</span>
                 <span>Verification of the validity and scope of sector permits</span>
               </li>
               <li class="flex items-start gap-3">
-                <span class="text-primary mt-1 font-bold">→</span>
+                <span class="text-secondary mt-1 font-bold">✓</span>
                 <span>Identification of regulatory gaps and associated risks</span>
               </li>
               <li class="flex items-start gap-3">
-                <span class="text-primary mt-1 font-bold">→</span>
+                <span class="text-secondary mt-1 font-bold">✓</span>
                 <span>Executive report to support decision-making</span>
               </li>
             </ul>
-            <div class="mt-8 rounded-box overflow-hidden h-48 relative w-full">
-              <img src="/images/02.jpeg" alt="Due Diligence" class="object-cover w-full h-full" />
-            </div>
           </div>
+        </div>
+
+        <!-- Section Image Banner -->
+        <div class="mt-14 rounded-box overflow-hidden h-64 md:h-80 w-full shadow-lg">
+          <img src="/images/02.jpeg" alt="Due Diligence and Engineering" class="object-cover w-full h-full" />
         </div>
       </div>
     </section>
 
-    <!-- 03 - Technical Capability -->
-    <section id="studies" class="py-20 px-4 md:px-8 bg-base-200">
+    <!-- 03 - Technical Capability / Precision & Traceability -->
+    <section id="studies" class="py-20 px-4 md:px-8 bg-base-100">
       <div class="max-w-7xl mx-auto flex flex-col lg:flex-row gap-12 items-start">
         <div class="w-full lg:w-1/3 lg:sticky lg:top-24">
-          <p class="text-accent font-bold tracking-widest mb-2">// 03 — TECHNICAL CAPABILITY</p>
+          <p class="text-accent font-bold tracking-widest mb-2">PRECISION & TRACEABILITY</p>
           <h2 class="text-3xl md:text-4xl font-bold text-primary mb-6">Technical studies and analysis</h2>
-          
-          <div class="card bg-base-100 border-none shadow-sm mt-8">
-            <div class="card-body">
-              <h3 class="card-title text-primary">Georeferenced, traceable data</h3>
-              <p>Each measurement is recorded and documented on-site, with full traceability for technical and regulatory purposes.</p>
-              <div class="badge badge-accent p-4 mt-4 font-bold w-full uppercase text-xs text-center">Field Record — Puchuncaví, Valparaíso</div>
-            </div>
-          </div>
+          <p class="text-base-content/80 text-lg leading-relaxed">
+            High-precision fieldwork, specialized measurements, and environmental component analyses designed to meet the strictest regulatory standards.
+          </p>
         </div>
         
         <div class="w-full lg:w-2/3">
@@ -248,6 +245,14 @@
               </div>
               <p class="text-base-content/80">Social risk analysis, social studies, and public participation processes (PAC).</p>
             </div>
+
+            <div>
+              <div class="flex items-center gap-3 mb-3">
+                <div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center text-primary-content shrink-0">7</div>
+                <h3 class="text-xl font-bold">Georeferenced, traceable data</h3>
+              </div>
+              <p class="text-base-content/80">Each measurement is recorded and documented on-site, with full traceability for technical and regulatory purposes.</p>
+            </div>
           </div>
           
           <div class="mt-12 rounded-box overflow-hidden h-64 md:h-96 w-full shadow-sm">
@@ -257,73 +262,90 @@
       </div>
     </section>
 
-    <!-- 04 - Where we work & 05 - Let's talk -->
-    <section class="grid grid-cols-1 lg:grid-cols-2">
-      <!-- Where we work -->
-      <div class="bg-base-200 py-20 px-8 lg:px-16 flex flex-col justify-center">
-        <p class="text-accent font-bold tracking-widest mb-2">// 04 — WHERE WE WORK</p>
-        <h2 class="text-3xl md:text-4xl font-bold text-primary mb-8">We work where your business operates</h2>
-        <div class="space-y-4 text-xl w-full">
-          <div class="flex items-center gap-4 bg-base-100 p-4 rounded-box shadow-sm">
-            <div class="w-2 h-12 bg-accent rounded-full shrink-0"></div>
-            <span class="font-bold">Industria (Industry)</span>
-          </div>
-          <div class="flex items-center gap-4 bg-base-100 p-4 rounded-box shadow-sm">
-            <div class="w-2 h-12 bg-accent rounded-full shrink-0"></div>
-            <span class="font-bold">Minería — Construcción (Mining — Construction)</span>
-          </div>
+    <!-- 04 - Where we work / Key Industries -->
+    <section id="industries" class="py-20 px-4 md:px-8 bg-base-200">
+      <div class="max-w-7xl mx-auto">
+        <div class="mb-12">
+          <p class="text-accent font-bold tracking-widest mb-2">KEY INDUSTRIES</p>
+          <h2 class="text-3xl md:text-4xl font-bold text-primary">We work where your business operates</h2>
         </div>
-        <div class="mt-12 rounded-box overflow-hidden h-64 w-full">
-            <img src="/images/04.jpeg" alt="Industry and Mining" class="object-cover w-full h-full" />
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+          <!-- Card 1: Industry -->
+          <div class="relative rounded-none overflow-hidden h-72 md:h-80 shadow-md group">
+            <div class="absolute inset-0 bg-cover bg-center transition-transform duration-700 ease-out group-hover:scale-105" style="background-image: url(/images/03.jpeg);"></div>
+            <div class="absolute inset-0 bg-black/25 group-hover:bg-black/15 transition-colors"></div>
+            
+            <div class="absolute bottom-6 left-6 z-10">
+              <div class="bg-base-200/95 backdrop-blur-sm px-6 py-3.5 rounded-sm shadow-lg border border-base-300/50">
+                <span class="font-bold uppercase text-xl md:text-2xl text-accent tracking-widest">Industry</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card 2: Mining — Construction -->
+          <div class="relative rounded-none overflow-hidden h-72 md:h-80 shadow-md group">
+            <div class="absolute inset-0 bg-cover bg-center transition-transform duration-700 ease-out group-hover:scale-105" style="background-image: url(/images/05.jpeg);"></div>
+            <div class="absolute inset-0 bg-black/25 group-hover:bg-black/15 transition-colors"></div>
+            
+            <div class="absolute bottom-6 left-6 z-10">
+              <div class="bg-base-200/95 backdrop-blur-sm px-6 py-3.5 rounded-sm shadow-lg border border-base-300/50">
+                <span class="font-bold uppercase text-xl md:text-2xl text-accent tracking-widest">Mining — Construction</span>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
+    </section>
       
-      <!-- Let's talk -->
-      <div id="contact" class="bg-primary text-primary-content py-20 px-8 lg:px-16 flex flex-col justify-center relative overflow-hidden">
-        <div class="absolute inset-0 z-0">
-          <img src="/images/05.jpeg" alt="Contact Background" class="object-cover w-full h-full opacity-20 mix-blend-overlay" />
+    <!-- 05 - Get in touch -->
+    <section id="contact" class="py-24 px-4 md:px-8 bg-primary text-primary-content">
+      <div class="max-w-7xl mx-auto">
+        <div class="flex flex-col lg:flex-row items-center justify-between gap-8 mb-12">
+          <div class="max-w-2xl text-center lg:text-left">
+            <p class="text-secondary font-bold tracking-widest mb-2">GET IN TOUCH</p>
+            <h2 class="text-3xl md:text-5xl font-bold mb-4 leading-tight">Let's talk about your project</h2>
+            <p class="text-lg md:text-xl opacity-90 leading-relaxed">
+              Schedule a free 20-minute conversation to review the environmental management and engineering support your project needs.
+            </p>
+          </div>
+          <div class="shrink-0">
+            <a href="https://wa.me/56962391165?text=Hello%2C%20I%20would%20like%20to%20schedule%20a%20conversation%20about%20environmental%20management%20for%20my%20project." target="_blank" rel="noopener noreferrer" class="btn btn-secondary text-secondary-content btn-lg border-none shadow-lg px-8">
+              Chat on WhatsApp
+            </a>
+          </div>
         </div>
-        <div class="relative z-10 w-full">
-          <p class="text-secondary font-bold tracking-widest mb-2">// 05 — LET'S TALK</p>
-          <h2 class="text-3xl md:text-5xl font-bold mb-6">Let's talk about your project</h2>
-          <p class="text-lg md:text-xl mb-10 max-w-md opacity-90">
-            Schedule a free 20-minute conversation to review the environmental management and engineering support your project needs.
-          </p>
-          <a href="mailto:natalia.munoz@nkgestion.cl" class="btn btn-secondary text-secondary-content btn-lg border-none shadow-lg w-full sm:w-auto">
-            Schedule a conversation
-          </a>
+
+        <div class="rounded-box overflow-hidden h-64 md:h-80 w-full shadow-lg">
+          <img src="/images/04.jpeg" alt="Let's talk about your project" class="object-cover w-full h-full" />
         </div>
       </div>
     </section>
 
     <!-- Footer -->
-    <footer class="footer bg-neutral text-neutral-content p-10 font-sans md:px-16 lg:px-24">
-      <aside>
-        <img src="/logo.jpeg" alt="NK Gestión Logo" class="h-12 object-contain bg-white p-2 rounded mb-4" />
-        <p class="font-bold text-lg">NK GESTIÓN</p>
-        <p>ENVIRONMENTAL SOLUTIONS AND ENGINEERING<br/>PROPOSAL DOCUMENT — FOR COMMERCIAL USE</p>
-      </aside>
-      <nav>
-        <h6 class="footer-title opacity-100 text-secondary">Contact</h6>
-        <div class="flex flex-col gap-2">
-          <p><span class="font-bold">Natalia Muñoz</span> — Commercial Director</p>
-          <a href="mailto:natalia.munoz@nkgestion.cl" class="link link-hover flex items-center gap-2">
-            ✉️ natalia.munoz@nkgestion.cl
+    <footer class="flex flex-col md:flex-row justify-between items-start p-10 font-sans md:px-16 lg:px-24 bg-base-100 text-base-content border-t border-base-200 gap-10">
+      <!-- Columna 1 -->
+      <div class="flex flex-col items-start">
+        <img src="/logo.jpeg" alt="NK Gestión Logo" class="h-12 object-contain mb-4" />
+        <p class="font-bold text-xl text-primary">NK GESTIÓN</p>
+      </div>
+
+      <!-- Columna 2: Contact -->
+      <div class="flex flex-col items-start">
+        <h6 class="text-xs font-bold uppercase tracking-widest text-accent mb-3">Contact</h6>
+        <div class="flex flex-col space-y-1">
+          <p class="text-base md:text-lg mb-1"><span class="font-semibold text-primary">Natalia Muñoz</span> — Commercial Director</p>
+          <a href="mailto:natalia.munoz@nkgestion.cl" class="link link-hover text-base md:text-lg text-base-content/90 hover:text-primary py-1.5 transition-colors">
+            natalia.munoz@nkgestion.cl
           </a>
-          <a href="mailto:natmunozac@gmail.com" class="link link-hover flex items-center gap-2">
-            ✉️ natmunozac@gmail.com
+          <a href="mailto:natmunozac@gmail.com" class="link link-hover text-base md:text-lg text-base-content/90 hover:text-primary py-1.5 transition-colors">
+            natmunozac@gmail.com
           </a>
-          <a href="https://wa.me/56962391165" target="_blank" rel="noopener noreferrer" class="link link-hover flex items-center gap-2 text-secondary font-bold mt-2">
-            📱 +56 9 6239 1165 (WhatsApp)
+          <a href="https://wa.me/56962391165" target="_blank" rel="noopener noreferrer" class="link link-hover text-base md:text-lg text-base-content/90 hover:text-primary py-1.5 transition-colors">
+            +56 9 6239 1165 (WhatsApp)
           </a>
         </div>
-      </nav>
-      <nav>
-        <h6 class="footer-title opacity-100 text-secondary">Navigation</h6>
-        <a href="#services" class="link link-hover">Services</a>
-        <a href="#studies" class="link link-hover">Studies & Analysis</a>
-        <a href="#due-diligence" class="link link-hover">Due Diligence</a>
-      </nav>
+      </div>
     </footer>
     </div> <!-- End drawer-content -->
     
@@ -336,12 +358,17 @@
             <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" /></svg>
           </label>
         </li>
-        <li><a href="#services" onclick="document.getElementById('main-menu').checked = false" class="py-4 px-6 hover:text-primary active:bg-base-200">Services</a></li>
-        <li><a href="#studies" onclick="document.getElementById('main-menu').checked = false" class="py-4 px-6 hover:text-primary active:bg-base-200">Studies & Analysis</a></li>
-        <li><a href="#due-diligence" onclick="document.getElementById('main-menu').checked = false" class="py-4 px-6 hover:text-primary active:bg-base-200">Due Diligence</a></li>
-        <li><a href="#contact" onclick="document.getElementById('main-menu').checked = false" class="py-4 px-6 hover:text-primary active:bg-base-200">Contact</a></li>
+        <li><a href="#why-nk" onclick="document.getElementById('main-menu').checked = false" class="py-4 px-6 hover:text-primary active:bg-base-200">Why NK</a></li>
+        <li><a href="#services" onclick="document.getElementById('main-menu').checked = false" class="py-4 px-6 hover:text-primary active:bg-base-200">Business Lines</a></li>
+        <li><a href="#studies" onclick="document.getElementById('main-menu').checked = false" class="py-4 px-6 hover:text-primary active:bg-base-200">Technical Studies</a></li>
+        <li><a href="#industries" onclick="document.getElementById('main-menu').checked = false" class="py-4 px-6 hover:text-primary active:bg-base-200">Key Industries</a></li>
+        <li><a href="#contact" onclick="document.getElementById('main-menu').checked = false" class="py-4 px-6 hover:text-primary active:bg-base-200">Get in Touch</a></li>
         
-        <li class="mt-8"><a href="#contact" onclick="document.getElementById('main-menu').checked = false" class="btn btn-primary text-primary-content text-xl py-4 h-auto">Let's Talk</a></li>
+        <li class="mt-6">
+          <a href="https://wa.me/56962391165?text=Hello%2C%20I%20would%20like%20to%20schedule%20a%20conversation%20about%20environmental%20management%20for%20my%20project." target="_blank" rel="noopener noreferrer" onclick="document.getElementById('main-menu').checked = false" class="btn btn-primary text-primary-content text-xl py-4 h-auto">
+            Chat on WhatsApp
+          </a>
+        </li>
       </ul>
     </div>
   </div>
