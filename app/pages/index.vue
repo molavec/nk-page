@@ -1,9 +1,14 @@
 <script setup>
-useHead({
+useSeoMeta({
   title: 'NK Gestión — Environmental Solutions and Engineering',
-  meta: [
-    { name: 'description', content: 'Environmental management and engineering for projects that move forward' }
-  ]
+  description: 'Environmental management and engineering for projects that move forward',
+  ogTitle: 'NK Gestión — Environmental Solutions and Engineering',
+  ogDescription: 'Environmental management and engineering for projects that move forward',
+  ogImage: '/images/03.jpeg',
+  twitterCard: 'summary_large_image',
+  twitterTitle: 'NK Gestión — Environmental Solutions and Engineering',
+  twitterDescription: 'Environmental management and engineering for projects that move forward',
+  twitterImage: '/images/03.jpeg'
 })
 </script>
 
