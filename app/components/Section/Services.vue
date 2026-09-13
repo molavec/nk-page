@@ -7,7 +7,7 @@
       </div>
 
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
-        <!-- N.01 -->
+        <!-- 1. Gestión Ambiental -->
         <div>
           <h3 class="text-2xl font-bold mb-6 text-secondary border-b border-secondary/30 pb-4">{{ $t('services.s1_title') }}</h3>
           <ul class="space-y-3">
@@ -34,7 +34,7 @@
           </ul>
         </div>
 
-        <!-- N.02 -->
+        <!-- 2. Elaboración de Permisos -->
         <div>
           <h3 class="text-2xl font-bold mb-6 text-secondary border-b border-secondary/30 pb-4">{{ $t('services.s2_title') }}</h3>
           <ul class="space-y-3">
@@ -53,7 +53,7 @@
           </ul>
         </div>
 
-        <!-- N.03 -->
+        <!-- 3. Due Diligence -->
         <div id="due-diligence" class="w-full md:col-span-2 lg:col-span-1">
           <h3 class="text-2xl font-bold mb-6 text-secondary border-b border-secondary/30 pb-4">{{ $t('services.s3_title') }}</h3>
           <p class="mb-4 opacity-90 text-sm md:text-base leading-relaxed">

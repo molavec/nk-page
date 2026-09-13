@@ -5,12 +5,26 @@ export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
 
+  app: {
+    head: {
+      link: [
+        { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      ]
+    }
+  },
+
   vite: {
     plugins: [tailwindcss() as any],
   },
 
   css: ['~~/public/assets/css/main.css'],
   modules: ['@nuxtjs/i18n'],
+
+  nitro: {
+    prerender: {
+      autoSubfolderIndex: false
+    }
+  },
 
   i18n: {
     locales: [

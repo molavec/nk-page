@@ -58,14 +58,6 @@
             </div>
             <p class="text-base-content/80">{{ $t('studies.i6_desc') }}</p>
           </div>
-
-          <div>
-            <div class="flex items-center gap-3 mb-3">
-              <div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center text-primary-content shrink-0">7</div>
-              <h3 class="text-xl font-bold">{{ $t('studies.i7_title') }}</h3>
-            </div>
-            <p class="text-base-content/80">{{ $t('studies.i7_desc') }}</p>
-          </div>
         </div>
         
         <div class="mt-12 rounded-box overflow-hidden h-64 md:h-96 w-full shadow-sm">

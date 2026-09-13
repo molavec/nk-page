@@ -28,17 +28,17 @@
   "services": {
     "eyebrow": "NOSSOS SERVIÇOS",
     "title": "Linhas de negócios",
-    "s1_title": "N.01 | Gestão Ambiental e Conformidade Regulatória",
+    "s1_title": "1. Gestão Ambiental",
     "s1_l1": "Elaboração e tramitação de instrumentos de licenciamento ambiental e setorial",
     "s1_l2": "Acompanhamento de compromissos e requisitos ambientais",
     "s1_l3": "Análise de lacunas operacionais e riscos regulatórios",
     "s1_l4": "Inspeção Técnica Ambiental de Obras (ITO)",
     "s1_l5": "Consultoria em sistemas de gestão da qualidade, meio ambiente e eficiência energética",
-    "s2_title": "N.02 | Engenharia, Licenças e Regularizações",
+    "s2_title": "2. Elaboração de Licenças",
     "s2_l1": "Gestão de licenças setoriais",
     "s2_l2": "Regularização junto às autoridades competentes",
     "s2_l3": "Estudos de linha de base",
-    "s3_title": "N.03 | Due Diligence Ambiental e de Licenciamento",
+    "s3_title": "3. Due Diligence",
     "s3_desc": "Avaliamos o status ambiental e regulatório de um ativo ou projeto, fornecendo uma base técnica clara para decisões de compra, arrendamento ou financiamento.",
     "s3_l1": "Revisão de passivos ambientais e histórico de conformidade",
     "s3_l2": "Verificação da validade e escopo de licenças setoriais",
@@ -60,9 +60,7 @@
     "i5_title": "Ambiente biótico",
     "i5_desc": "Levantamentos de flora e fauna terrestre e aquática com consultores certificados SAG e SUBPESCA, biologia do solo e macroinvertebrados.",
     "i6_title": "Ambiente social",
-    "i6_desc": "Análise de risco social, estudos sociais e processos de participação pública (PAC).",
-    "i7_title": "Dados georreferenciados e rastreáveis",
-    "i7_desc": "Cada medição é registrada e documentada no local, com rastreabilidade total para fins técnicos e regulatórios."
+    "i6_desc": "Análise de risco social, estudos sociais e processos de participação pública (PAC)."
   },
   "industries": {
     "eyebrow": "INDÚSTRIAS-CHAVE",

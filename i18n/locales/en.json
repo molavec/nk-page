@@ -28,17 +28,17 @@
   "services": {
     "eyebrow": "OUR SERVICES",
     "title": "Business lines",
-    "s1_title": "N.01 | Environmental Management and Regulatory Compliance",
+    "s1_title": "1. Environmental Management",
     "s1_l1": "Design and preparation of environmental and sector-specific permitting instruments",
     "s1_l2": "Monitoring of environmental commitments and requirements",
     "s1_l3": "Analysis of operational gaps and regulatory risks",
     "s1_l4": "Environmental Technical Inspection of Works (ITO)",
     "s1_l5": "Consulting on quality, environmental, and energy efficiency management systems",
-    "s2_title": "N.02 | Engineering, Permits and Regularizations",
+    "s2_title": "2. Permit Preparation",
     "s2_l1": "Sector-specific permit management",
     "s2_l2": "Regularization before the relevant authorities",
     "s2_l3": "Baseline studies",
-    "s3_title": "N.03 | Environmental and Permitting Due Diligence",
+    "s3_title": "3. Due Diligence",
     "s3_desc": "We assess the environmental and regulatory status of an asset or project, providing a clear technical basis for purchase, lease, or financing decisions.",
     "s3_l1": "Review of environmental liabilities and compliance history",
     "s3_l2": "Verification of the validity and scope of sector permits",
@@ -60,9 +60,7 @@
     "i5_title": "Biotic environment",
     "i5_desc": "Terrestrial and aquatic flora and fauna surveys with SAG and SUBPESCA-certified consultants, soil biology, and macroinvertebrates.",
     "i6_title": "Social environment",
-    "i6_desc": "Social risk analysis, social studies, and public participation processes (PAC).",
-    "i7_title": "Georeferenced, traceable data",
-    "i7_desc": "Each measurement is recorded and documented on-site, with full traceability for technical and regulatory purposes."
+    "i6_desc": "Social risk analysis, social studies, and public participation processes (PAC)."
   },
   "industries": {
     "eyebrow": "KEY INDUSTRIES",

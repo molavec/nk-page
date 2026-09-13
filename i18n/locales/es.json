@@ -28,17 +28,17 @@
   "services": {
     "eyebrow": "NUESTROS SERVICIOS",
     "title": "Líneas de negocio",
-    "s1_title": "N.01 | Gestión Ambiental y Cumplimiento Normativo",
+    "s1_title": "1. Gestión Ambiental",
     "s1_l1": "Diseño y tramitación de instrumentos de gestión ambiental y sectorial",
     "s1_l2": "Seguimiento de compromisos y requerimientos ambientales",
     "s1_l3": "Análisis de brechas operativas y riesgos normativos",
     "s1_l4": "Inspección Técnica Ambiental de Obras (ITO Ambiental)",
     "s1_l5": "Asesoría en sistemas de gestión de calidad, medio ambiente y eficiencia energética",
-    "s2_title": "N.02 | Ingeniería, Permisos y Regularizaciones",
+    "s2_title": "2. Elaboración de Permisos",
     "s2_l1": "Gestión de permisos sectoriales",
     "s2_l2": "Regularizaciones ante servicios competentes",
     "s2_l3": "Levantamiento de líneas base",
-    "s3_title": "N.03 | Due Diligence Ambiental y Permisos",
+    "s3_title": "3. Due Diligence",
     "s3_desc": "Evaluamos el estado ambiental y normativo de un activo o proyecto, entregando sustento técnico claro para decisiones de compra, arriendo o financiamiento.",
     "s3_l1": "Revisión de pasivos ambientales y de historial de cumplimiento",
     "s3_l2": "Verificación de la vigencia y alcance de permisos sectoriales",
@@ -60,9 +60,7 @@
     "i5_title": "Medio biótico",
     "i5_desc": "Levantamiento de flora y fauna terrestre y acuática con consultores con carnet SAG y SUBPESCA, biología del suelo y macroinvertebrados.",
     "i6_title": "Medio social",
-    "i6_desc": "Análisis de riesgos sociales, estudios sociales y procesos de participación ciudadana (PAC).",
-    "i7_title": "Datos georreferenciados y trazables",
-    "i7_desc": "Cada medición es registrada y documentada en terreno, con total trazabilidad técnica y normativa."
+    "i6_desc": "Análisis de riesgos sociales, estudios sociales y procesos de participación ciudadana (PAC)."
   },
   "industries": {
     "eyebrow": "INDUSTRIAS CLAVE",
