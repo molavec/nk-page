@@ -1,33 +1,34 @@
 <template>
   <div class="join">
-    <button
+    <NuxtLink
       class="btn btn-ghost btn-sm join-item text-lg px-2"
       :class="{ 'opacity-100': locale === 'en', 'opacity-50 hover:opacity-100': locale !== 'en' }"
-      @click="setLocale('en')"
+      :to="switchLocalePath('en')"
       title="English"
     >
       🇺🇸
-    </button>
-    <button
+    </NuxtLink>
+    <NuxtLink
       class="btn btn-ghost btn-sm join-item text-lg px-2"
       :class="{ 'opacity-100': locale === 'es', 'opacity-50 hover:opacity-100': locale !== 'es' }"
-      @click="setLocale('es')"
+      :to="switchLocalePath('es')"
       title="Español"
     >
       🇪🇸
-    </button>
-    <button
+    </NuxtLink>
+    <NuxtLink
       class="btn btn-ghost btn-sm join-item text-lg px-2"
       :class="{ 'opacity-100': locale === 'pt', 'opacity-50 hover:opacity-100': locale !== 'pt' }"
-      @click="setLocale('pt')"
+      :to="switchLocalePath('pt')"
       title="Português"
     >
       🇧🇷
-    </button>
+    </NuxtLink>
   </div>
 </template>
 
 <script setup>
-const { locale, setLocale } = useI18n()
+const { locale } = useI18n()
+const switchLocalePath = useSwitchLocalePath()
 </script>
 
