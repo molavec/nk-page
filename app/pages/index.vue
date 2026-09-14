@@ -1,13 +1,13 @@
 <script setup>
 useSeoMeta({
-  title: 'NK Gestión — Environmental Solutions and Engineering',
-  description: 'Environmental management and engineering for projects that move forward',
-  ogTitle: 'NK Gestión — Environmental Solutions and Engineering',
-  ogDescription: 'Environmental management and engineering for projects that move forward',
+  title: 'NK Gestión — Soluciones Ambientales e Ingeniería',
+  description: 'Gestión ambiental e ingeniería para proyectos que avanzan',
+  ogTitle: 'NK Gestión — Soluciones Ambientales e Ingeniería',
+  ogDescription: 'Gestión ambiental e ingeniería para proyectos que avanzan',
   ogImage: '/images/03.jpeg',
   twitterCard: 'summary_large_image',
-  twitterTitle: 'NK Gestión — Environmental Solutions and Engineering',
-  twitterDescription: 'Environmental management and engineering for projects that move forward',
+  twitterTitle: 'NK Gestión — Soluciones Ambientales e Ingeniería',
+  twitterDescription: 'Gestión ambiental e ingeniería para proyectos que avanzan',
   twitterImage: '/images/03.jpeg'
 })
 </script>
