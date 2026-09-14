@@ -6,7 +6,7 @@
         <h2 class="text-3xl md:text-4xl font-bold">{{ $t('services.title') }}</h2>
       </div>
 
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-10 lg:gap-12">
         <!-- 1. Gestión Ambiental -->
         <div>
           <h3 class="text-2xl font-bold mb-6 text-secondary border-b border-secondary/30 pb-4">{{ $t('services.s1_title') }}</h3>
@@ -54,7 +54,7 @@
         </div>
 
         <!-- 3. Due Diligence -->
-        <div id="due-diligence" class="w-full md:col-span-2 lg:col-span-1">
+        <div id="due-diligence" class="w-full">
           <h3 class="text-2xl font-bold mb-6 text-secondary border-b border-secondary/30 pb-4">{{ $t('services.s3_title') }}</h3>
           <p class="mb-4 opacity-90 text-sm md:text-base leading-relaxed">
             {{ $t('services.s3_desc') }}
@@ -75,6 +75,25 @@
             <li class="flex items-start gap-3">
               <span class="text-secondary mt-1 font-bold">✓</span>
               <span>{{ $t('services.s3_l4') }}</span>
+            </li>
+          </ul>
+        </div>
+
+        <!-- 4. Estudios complementarios -->
+        <div class="w-full">
+          <h3 class="text-2xl font-bold mb-6 text-secondary border-b border-secondary/30 pb-4">{{ $t('services.s4_title') }}</h3>
+          <ul class="space-y-3">
+            <li class="flex items-start gap-3">
+              <span class="text-secondary mt-1 font-bold">✓</span>
+              <span>{{ $t('services.s4_l1') }}</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="text-secondary mt-1 font-bold">✓</span>
+              <span>{{ $t('services.s4_l2') }}</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="text-secondary mt-1 font-bold">✓</span>
+              <span>{{ $t('services.s4_l3') }}</span>
             </li>
           </ul>
         </div>

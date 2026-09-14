@@ -32,9 +32,9 @@ export default defineNuxtConfig({
       { code: 'es', file: 'es.json', name: 'Español' },
       { code: 'pt', file: 'pt.json', name: 'Português' }
     ],
-    defaultLocale: 'en',
+    defaultLocale: 'es',
     langDir: 'locales/',
     strategy: 'prefix',
-    baseUrl: 'https://example.com'
+    baseUrl: 'https://nkgestion.cl'
   }
 })
