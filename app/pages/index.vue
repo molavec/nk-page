@@ -21,7 +21,7 @@ useSeoMeta({
       <SectionWhyNk />
       <SectionServices />
       <SectionStudies />
-      <SectionIndustries />
+      <!-- <SectionIndustries /> -->
       <SectionContact />
       <AppFooter />
     </div>

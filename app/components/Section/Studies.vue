@@ -60,8 +60,13 @@
           </div>
         </div>
         
-        <div class="mt-12 rounded-box overflow-hidden h-64 md:h-96 w-full shadow-sm">
-          <img src="/images/03.jpeg" alt="Technical Studies" class="object-cover w-full h-full" />
+        <div class="mt-12 grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
+          <div class="rounded-box overflow-hidden h-64 md:h-80 w-full shadow-sm">
+            <img src="/images/03.jpeg" alt="Technical Studies" class="object-cover w-full h-full" />
+          </div>
+          <div class="rounded-box overflow-hidden h-64 md:h-80 w-full shadow-sm">
+            <img src="/images/05.jpeg" alt="Technical Studies" class="object-cover w-full h-full" />
+          </div>
         </div>
       </div>
     </div>
