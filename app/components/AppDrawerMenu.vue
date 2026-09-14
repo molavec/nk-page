@@ -12,7 +12,6 @@
       <li><a href="#why-nk" onclick="document.getElementById('main-menu').checked = false" class="py-4 px-6 hover:text-primary active:bg-base-200">{{ $t('drawer.why') }}</a></li>
       <li><a href="#services" onclick="document.getElementById('main-menu').checked = false" class="py-4 px-6 hover:text-primary active:bg-base-200">{{ $t('drawer.services') }}</a></li>
       <li><a href="#studies" onclick="document.getElementById('main-menu').checked = false" class="py-4 px-6 hover:text-primary active:bg-base-200">{{ $t('drawer.studies') }}</a></li>
-      <li><a href="#industries" onclick="document.getElementById('main-menu').checked = false" class="py-4 px-6 hover:text-primary active:bg-base-200">{{ $t('drawer.industries') }}</a></li>
       <li><a href="#contact" onclick="document.getElementById('main-menu').checked = false" class="py-4 px-6 hover:text-primary active:bg-base-200">{{ $t('drawer.contact') }}</a></li>
       
       <li class="mt-6">
